@@ -8,7 +8,6 @@ int main()
 int num,guess,count=1;
 srand(time(0));
 num=rand()%100 + 1;                                  //Generates random number between 1 and 100
-// cout<<"The Number is: "<<num<<endl;
 
 cout<<"Guess the number between 1 to 100 \n";
 

@@ -33,4 +33,4 @@ Contributions are welcome! If you find any issues or have ideas to improve the g
 
 ## Contact
 
-For any questions or inquiries, please contact [Aagam Jain](aagamaj1212@gmail.com).
+For any questions or inquiries, please contact me through my Email: aagamaj1212@gmail.com (Aagam Jain)
